@@ -2,151 +2,151 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PACE research group</title>
-    <link>http://localhost:1313/</link>
+    <link>https://paceiap.github.io/</link>
     <description>Recent content on PACE research group</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; fdzoom, 2023 </copyright>
     <lastBuildDate>Wed, 10 Jan 2024 16:10:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://paceiap.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>FY-4A AGRI AOD (2018, 5min)</title>
-      <link>http://localhost:1313/project/transferlearning/</link>
+      <link>https://paceiap.github.io/project/transferlearning/</link>
       <pubDate>Wed, 10 Jan 2024 16:10:22 +0200</pubDate>
-      <guid>http://localhost:1313/project/transferlearning/</guid>
+      <guid>https://paceiap.github.io/project/transferlearning/</guid>
       <description>Introduction The dataset is a colltection of FY-4A REGC AGRI AOD retrieved with transfer learning method (see details in the paper:A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia). The AGRI AOD is built with 5min/4km. The dataset in this category is provided in 1 hour.&#xA;Due to the cloud mask before March 12th being derived from a simplified empirical algorithm, there is a difference in data quality between the AOD data before and after March 12th.</description>
     </item>
     <item>
       <title>Member 1</title>
-      <link>http://localhost:1313/member/member1/</link>
+      <link>https://paceiap.github.io/member/member1/</link>
       <pubDate>Tue, 12 Dec 2023 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/member1/</guid>
+      <guid>https://paceiap.github.io/member/member1/</guid>
       <description> Established the first BSRN (Baseline Surface Radiation Network) observation station in China. Recognized among the top 2% of global scientists in the list published by Stanford University, and recipient of the Lifetime Achievement Award for being among the top 2% of global scientists. Google Scholar citation count reaches 11,125 with an h-index of 58 (January 13, 2024). Associated Editor of &amp;ldquo;Solar Energy&amp;rdquo; </description>
     </item>
     <item>
       <title>Member 2</title>
-      <link>http://localhost:1313/member/member2/</link>
+      <link>https://paceiap.github.io/member/member2/</link>
       <pubDate>Thu, 12 Oct 2023 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/member2/</guid>
+      <guid>https://paceiap.github.io/member/member2/</guid>
       <description>Hongrong Shi Introduction I conduct research on the interaction between aerosols, clouds, and radiation. 25 papers have been published, of which 8 have been published as first or corresponding authors, including 7 SCI (RSER, GRL, JGR, ERL and other journals), with a cumulative impact factor of 31.55+14. The main work achievements are as follows:&#xA;Reveal the chemical mechanism behind the slow decrease in winter PM2.5 in eastern China under emission reduction measures, and find that emission reduction measures lead to a rapid increase in surface solar radiation; Improve the simulation capability of smoke aerosol models and evaluate their impact on air quality and radiation; 3.</description>
     </item>
     <item>
       <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
-      <link>http://localhost:1313/publication/learning1/</link>
+      <link>https://paceiap.github.io/publication/learning1/</link>
       <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/learning1/</guid>
+      <guid>https://paceiap.github.io/publication/learning1/</guid>
       <description>You can add information in $\LaTeX$ and Markdown here.</description>
     </item>
     <item>
       <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
-      <link>http://localhost:1313/publication/learning2/</link>
+      <link>https://paceiap.github.io/publication/learning2/</link>
       <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/learning2/</guid>
+      <guid>https://paceiap.github.io/publication/learning2/</guid>
       <description>You can add information in $\LaTeX$ and Markdown here.</description>
     </item>
     <item>
       <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
-      <link>http://localhost:1313/publication/learning3/</link>
+      <link>https://paceiap.github.io/publication/learning3/</link>
       <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/learning3/</guid>
+      <guid>https://paceiap.github.io/publication/learning3/</guid>
       <description>You can add information in $\LaTeX$ and Markdown here.</description>
     </item>
     <item>
       <title>Member 3</title>
-      <link>http://localhost:1313/member/member3/</link>
+      <link>https://paceiap.github.io/member/member3/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member3/</guid>
+      <guid>https://paceiap.github.io/member/member3/</guid>
       <description>I was born in August 1992 and currently hold the position of Associate Researcher at the Institute of Atmospheric Physics, Chinese Academy of Sciences. My research focuses on satellite remote sensing of atmospheric aerosols and their climatic and environmental impacts. Here are some highlights of my work:&#xA;Pioneered an early method for quantitatively retrieving nighttime aerosols based on city light. Developed a statistical learning-based aerosol interpolation method. Established an aerosol retrieval algorithm based on transfer learning.</description>
     </item>
     <item>
       <title>Member 4</title>
-      <link>http://localhost:1313/member/member4/</link>
+      <link>https://paceiap.github.io/member/member4/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member4/</guid>
+      <guid>https://paceiap.github.io/member/member4/</guid>
       <description>I was born in August 1993. My main research interests include solar energy resource assessment and short-term prediction, atmospheric multi-source remote sensing detection and atmospheric radiation transfer, etc. I have published more than ten papers in journals such as Advances in Atmospheric Sciences, Solar Energy, Atmospheric Research, Atmospheric Environment, etc.</description>
     </item>
     <item>
       <title>Member 5</title>
-      <link>http://localhost:1313/member/member5/</link>
+      <link>https://paceiap.github.io/member/member5/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member5/</guid>
+      <guid>https://paceiap.github.io/member/member5/</guid>
       <description>诞生于1997，梦想做说唱皇帝.</description>
     </item>
     <item>
       <title>Member 6</title>
-      <link>http://localhost:1313/member/member6/</link>
+      <link>https://paceiap.github.io/member/member6/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member6/</guid>
+      <guid>https://paceiap.github.io/member/member6/</guid>
       <description>诞生于1997，梦想做说唱皇帝.</description>
     </item>
     <item>
       <title>A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia</title>
-      <link>http://localhost:1313/publication/learning5/</link>
+      <link>https://paceiap.github.io/publication/learning5/</link>
       <pubDate>Sat, 01 Oct 2022 16:37:31 +0200</pubDate>
-      <guid>http://localhost:1313/publication/learning5/</guid>
+      <guid>https://paceiap.github.io/publication/learning5/</guid>
       <description>You can add information in $\LaTeX$ and Markdown here.</description>
     </item>
     <item>
       <title>Test post please ignore</title>
-      <link>http://localhost:1313/post/post2/</link>
+      <link>https://paceiap.github.io/post/post2/</link>
       <pubDate>Tue, 12 Jul 2016 16:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/post2/</guid>
+      <guid>https://paceiap.github.io/post/post2/</guid>
       <description>Est Procrin Terrigenam rorant colla victoria per monstra obiecit Lorem markdownum, Circaea: neque Phrygiae et bacarum caelo, iniectos. Ut tenvit per coniecta? Vagantem aut nunc velocibus praenuntia tenuit a Phoebi convicia mentis, conveniunt hunc! Supervolat domitis pronusque in artus, postquam videt et mediis. Pectine rigorem aethera, signum, saucia Salmacis si facibus pectore aversos gentes neve, et usus siqua.&#xA;Aestuque deceant fuerat quam iura Rabie intus fugio potentia, protecta proculcat pelle, membris in praesens lustrantem ignis inmemores puer mitissima tenent.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/project/widelearning/</link>
+      <link>https://paceiap.github.io/project/widelearning/</link>
       <pubDate>Tue, 12 Jul 2016 16:10:22 +0200</pubDate>
-      <guid>http://localhost:1313/project/widelearning/</guid>
+      <guid>https://paceiap.github.io/project/widelearning/</guid>
       <description>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning Abstract Fengyun-4A (FY-4A), which is the latest-generation Chinese geostationary meteorological satellite, measures solar reflection and thermal emission with high temporal, spatial, and spectral resolutions. It is expected to be highly beneficial for solar resource assessment and forecasting in China. This study is the first to estimate, using FY-4A and a random forest model, the global horizontal irradiance (GHI) at a 4-km–15-min spatio-temporal resolution over China, as a means to arrive at a solar photovoltaic (PV) resource map.</description>
     </item>
     <item>
       <title>Jupyter Notebook</title>
-      <link>http://localhost:1313/post/notebook/</link>
+      <link>https://paceiap.github.io/post/notebook/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/notebook/</guid>
+      <guid>https://paceiap.github.io/post/notebook/</guid>
       <description>An IJulia Preview This notebook is a preview demo of IJulia: a Julia-language backend combined with the IPython interactive environment. This combination allows you to interact with the Julia language using IPython&amp;rsquo;s powerful graphical notebook, which combines code, formatted text, math, and multimedia in a single document.&#xA;Note: this is a preview, because it relies on pre-release bleeding-edge versions of Julia, IPython, and several Julia packages, as explained on the IJulia github page, and functionality is evolving rapidly.</description>
     </item>
     <item>
       <title>Markdown ipsum</title>
-      <link>http://localhost:1313/post/post1/</link>
+      <link>https://paceiap.github.io/post/post1/</link>
       <pubDate>Tue, 12 Jul 2016 15:50:58 +0200</pubDate>
-      <guid>http://localhost:1313/post/post1/</guid>
+      <guid>https://paceiap.github.io/post/post1/</guid>
       <description>Magorum notissima limite sua pars simus sumptis Incessit ignota coniunx serpunt Lorem markdownum ab cunas, semine commissus matrona manibusque plumis, nova sub Spartana loca ignibus. In partibus muneris, paludes rara, plectrumque, fontis, concubitus a locoque demptos exclamat conde ab aethera nihil.&#xA;Quamquam abit vulnere nec intus decidit clamor Nocuit quae tamen timent aperta Cervice preces totumque postquam nunc iacit sive Potestas te sis putaret sceleri totiens Retro profundo ad sede Iovem in este In ait flumina intrare Troiae Ut fatis praecordia alvum iamque, adeo tympana male silvas.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://paceiap.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://paceiap.github.io/about/</guid>
       <description>PACE group The Precipitation, Aerosol, Cloud, and Energy (PACE) group is a research team that focuses on studying the interactions and relationships between precipitation, aerosols, clouds, and energy in the Earth&amp;rsquo;s atmosphere. This interdisciplinary group typically includes atmospheric scientists, meteorologists, climatologists, and other researchers who collaborate to enhance our understanding of the complex processes occurring within the atmosphere.&#xA;The primary areas of interest for the PACE group may include investigating the impact of aerosols on cloud formation, studying the role of clouds in the Earth&amp;rsquo;s energy balance, and exploring the dynamics of precipitation systems.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/approach/</link>
+      <link>https://paceiap.github.io/approach/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/approach/</guid>
+      <guid>https://paceiap.github.io/approach/</guid>
       <description>Mission Impossible TBD. </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/mission/</link>
+      <link>https://paceiap.github.io/mission/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/mission/</guid>
+      <guid>https://paceiap.github.io/mission/</guid>
       <description>Mission Impossible TBD. </description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/research/</link>
+      <link>https://paceiap.github.io/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/research/</guid>
+      <guid>https://paceiap.github.io/research/</guid>
       <description>The research includes: The research conducted by the PACE group typically focuses on understanding the intricate relationships and interactions among precipitation, aerosols, clouds, and energy in the Earth&amp;rsquo;s atmosphere. Here are some key areas of research within the PACE group:&#xA;Cloud-Aerosol Interactions:&#xA;Investigating how aerosols (including natural and anthropogenic particles) influence cloud formation and properties. Studying the impact of aerosols on cloud microphysics, such as droplet size distribution and cloud lifetime.</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/vacancy/vacancy1/</link>
+      <link>https://paceiap.github.io/vacancy/vacancy1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/vacancy/vacancy1/</guid>
+      <guid>https://paceiap.github.io/vacancy/vacancy1/</guid>
       <description>You can write $\LaTeX$ and Markdown here.&#xA;Minyae adgnoscitque fugiebat parentis ausum superos huius Ait erili meruisse iactatis omnibus erat Lorem markdownum natis, ipsi ipsi aut relictus saxo comitantibus aegro amori verba fugisse mira mortisque leones! Prior sui liquidissimus leve properandum totidem studio, refert magno, me quibus. Sternitur discordia summaque, si deus in undam et vulnere dirusque est felices pallam miserere curvamine comites. Tegumenque decipit suis, poscitur una dea sumus adnuerant, gerebat est edam plura.</description>
     </item>
   </channel>

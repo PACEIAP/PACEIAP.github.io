@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Members on PACE research group</title>
-    <link>http://localhost:1313/member/</link>
+    <link>https://paceiap.github.io/member/</link>
     <description>Recent content in Members on PACE research group</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; fdzoom, 2023 </copyright>
     <lastBuildDate>Tue, 12 Dec 2023 15:52:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/member/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://paceiap.github.io/member/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Member 1</title>
-      <link>http://localhost:1313/member/member1/</link>
+      <link>https://paceiap.github.io/member/member1/</link>
       <pubDate>Tue, 12 Dec 2023 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/member1/</guid>
+      <guid>https://paceiap.github.io/member/member1/</guid>
       <description> Established the first BSRN (Baseline Surface Radiation Network) observation station in China. Recognized among the top 2% of global scientists in the list published by Stanford University, and recipient of the Lifetime Achievement Award for being among the top 2% of global scientists. Google Scholar citation count reaches 11,125 with an h-index of 58 (January 13, 2024). Associated Editor of &amp;ldquo;Solar Energy&amp;rdquo; </description>
     </item>
     <item>
       <title>Member 2</title>
-      <link>http://localhost:1313/member/member2/</link>
+      <link>https://paceiap.github.io/member/member2/</link>
       <pubDate>Thu, 12 Oct 2023 15:52:22 +0200</pubDate>
-      <guid>http://localhost:1313/member/member2/</guid>
+      <guid>https://paceiap.github.io/member/member2/</guid>
       <description>Hongrong Shi Introduction I conduct research on the interaction between aerosols, clouds, and radiation. 25 papers have been published, of which 8 have been published as first or corresponding authors, including 7 SCI (RSER, GRL, JGR, ERL and other journals), with a cumulative impact factor of 31.55+14. The main work achievements are as follows:&#xA;Reveal the chemical mechanism behind the slow decrease in winter PM2.5 in eastern China under emission reduction measures, and find that emission reduction measures lead to a rapid increase in surface solar radiation; Improve the simulation capability of smoke aerosol models and evaluate their impact on air quality and radiation; 3.</description>
     </item>
     <item>
       <title>Member 3</title>
-      <link>http://localhost:1313/member/member3/</link>
+      <link>https://paceiap.github.io/member/member3/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member3/</guid>
+      <guid>https://paceiap.github.io/member/member3/</guid>
       <description>I was born in August 1992 and currently hold the position of Associate Researcher at the Institute of Atmospheric Physics, Chinese Academy of Sciences. My research focuses on satellite remote sensing of atmospheric aerosols and their climatic and environmental impacts. Here are some highlights of my work:&#xA;Pioneered an early method for quantitatively retrieving nighttime aerosols based on city light. Developed a statistical learning-based aerosol interpolation method. Established an aerosol retrieval algorithm based on transfer learning.</description>
     </item>
     <item>
       <title>Member 4</title>
-      <link>http://localhost:1313/member/member4/</link>
+      <link>https://paceiap.github.io/member/member4/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member4/</guid>
+      <guid>https://paceiap.github.io/member/member4/</guid>
       <description>I was born in August 1993. My main research interests include solar energy resource assessment and short-term prediction, atmospheric multi-source remote sensing detection and atmospheric radiation transfer, etc. I have published more than ten papers in journals such as Advances in Atmospheric Sciences, Solar Energy, Atmospheric Research, Atmospheric Environment, etc.</description>
     </item>
     <item>
       <title>Member 5</title>
-      <link>http://localhost:1313/member/member5/</link>
+      <link>https://paceiap.github.io/member/member5/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member5/</guid>
+      <guid>https://paceiap.github.io/member/member5/</guid>
       <description>诞生于1997，梦想做说唱皇帝.</description>
     </item>
     <item>
       <title>Member 6</title>
-      <link>http://localhost:1313/member/member6/</link>
+      <link>https://paceiap.github.io/member/member6/</link>
       <pubDate>Thu, 20 Oct 2022 15:52:22 +0800</pubDate>
-      <guid>http://localhost:1313/member/member6/</guid>
+      <guid>https://paceiap.github.io/member/member6/</guid>
       <description>诞生于1997，梦想做说唱皇帝.</description>
     </item>
   </channel>
