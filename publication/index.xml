@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on PACE research group</title>
+    <link>http://localhost:1313/publication/</link>
+    <description>Recent content in Publications on PACE research group</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <copyright>&amp;copy; fdzoom, 2023 </copyright>
+    <lastBuildDate>Fri, 01 Sep 2023 16:37:31 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
+      <link>http://localhost:1313/publication/learning1/</link>
+      <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/learning1/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    <item>
+      <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
+      <link>http://localhost:1313/publication/learning2/</link>
+      <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/learning2/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    <item>
+      <title>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning</title>
+      <link>http://localhost:1313/publication/learning3/</link>
+      <pubDate>Fri, 01 Sep 2023 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/learning3/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+    <item>
+      <title>A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia</title>
+      <link>http://localhost:1313/publication/learning5/</link>
+      <pubDate>Sat, 01 Oct 2022 16:37:31 +0200</pubDate>
+      <guid>http://localhost:1313/publication/learning5/</guid>
+      <description>You can add information in $\LaTeX$ and Markdown here.</description>
+    </item>
+  </channel>
+</rss>

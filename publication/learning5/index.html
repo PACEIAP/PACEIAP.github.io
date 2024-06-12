@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html lang="en">
+<head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="theme" content="hugo-academic-group">
+
+    
+    
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <script src="http://localhost:1313//js/hugo-academic-group.js"></script>
+
+    <link rel="stylesheet" href="http://localhost:1313//css/bootstrap.min.css">
+    <script src="http://localhost:1313//js/bootstrap.min.js"></script>  
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.6.0/styles/default.min.css">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/github-fork-ribbon-css/0.2.2/gh-fork-ribbon.min.css" />
+    
+    
+    <script src="http://localhost:1313//js/highlight.pack.js"></script>
+    <script>hljs.initHighlightingOnLoad();</script>
+
+
+    <link rel="stylesheet" href="http://localhost:1313//css/font-awesome.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/academicons.min.css">
+    <link rel="stylesheet" href="http://localhost:1313//css/biaslab-font.css">
+    <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lato:100,300,400,700|Merriweather:100,400,700|Roboto+Mono">
+    <link rel="stylesheet" href="http://localhost:1313//css/hugo-academic-group.css">
+
+    
+
+
+    <link rel="shortcut icon" href="http://localhost:1313//img/favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="http://localhost:1313/publication/learning5/">
+
+    <title>A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia | PACE research group</title>
+
+</head>
+
+<body>
+<div class="home-anchor" id="home"></div>
+
+
+
+<nav class="navbar navbar-default navbar-fixed-top" id="navbar-main">
+    <div class="container">
+
+        
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target=".navbar-collapse" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+
+            <div class="navbar-brand">
+                
+                
+            </div>
+        </div>
+
+        
+        <div class="collapse navbar-collapse" id="#navbar-collapse-1">
+
+            
+            <ul class="nav navbar-nav navbar-right">
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#top">Home</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/research">Research</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#publications">Publications</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#projects">Prodcuts</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#members">Members</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#posts">Posts</a></li>
+                    
+                
+                    
+                        <li class="nav-item"><a data-scroll href="http://localhost:1313/#contact">Contact</a></li>
+                    
+                
+                
+            </ul>
+
+        </div>
+    </div>
+</nav>
+
+
+
+<div class="container">
+
+    <div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-title">
+                    <h1 itemprop="name">A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia</h1>
+                </div>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="pub-authors" itemprop="author">
+                    
+<div itemprop="author">
+        
+            
+                
+<span class="author-name">Disong Fu</span>,
+            
+                
+<span class="author-name">Hongrong Shi</span>,
+            
+                
+<span class="author-name">Christian A Gueymard</span>,
+            
+                
+<span class="author-name">Dazhi Yang</span>,
+            
+                
+<span class="author-name">Yu Zheng</span>,
+            
+                
+<span class="author-name">Huizheng Che</span>,
+            
+                
+<span class="author-name">Xuehua Fan</span>,
+            
+                
+<span class="author-name">Xinlei Han</span>,
+            
+                
+<span class="author-name">Ling Gao</span>,
+            
+                
+<span class="author-name">Jianchun Bian</span>,
+            
+                
+<span class="author-name">Minzheng Duan</span>,
+            
+            
+                 
+<span class="author-name">Xiangao xia</span>
+            
+        
+</div>
+
+                </div>
+            </div>
+        </div>
+
+        
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <h3>Abstract</h3>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-sm-12">
+                <p class="pub-abstract" itemprop="text">The Advanced Geosynchronous Radiation Imager (AGRI) is a mission-critical instrument for the Fengyun series of satellites. AGRI acquires full-disk images every 15 min and views East Asia every 5 min through 14 spectral bands, enabling the detection of highly variable aerosol optical depth (AOD). Quantitative retrieval of AOD has hitherto been challenging, especially over land. In this study, an AOD retrieval algorithm is proposed to combine deep learning and transfer learning. The algorithm uses core concepts from both the Dark Target (DT) and Deep Blue (DB) algorithms to select features for the machine-learning algorithm, allowing for AOD retrieval at 550 nm over both dark and bright surfaces. The algorithm consists of two steps: (1) a baseline deep neural network (DNN) with skip connections is developed using 10-min Ad-vanced Himawari Imager AODs as the target variable, and (2) sunphotometer AODs from 89 ground-based stations are used to fine-tune the DNN parameters. Out-of-station validation shows that the retrieved AOD has attained a high accuracy, characterized by a coefficient of determination (R2) of 0.70, a mean bias error (MBE) of 0.03, and a percentage of data within the expected error (EE) of 70.7%. A sensitivity study reveals that the top-of-atmosphere reflec-tance at 650 and 470 nm, as well as the surface reflectance at 650 nm, are the two largest sources of uncertainty that impact the retrieval. In a case study of monitoring an extreme aero-sol event, the AGRI AOD is found able to capture the detailed temporal evolution of the event. This work demonstrates the superiority of the transfer learning technique in satellite AOD re-trievals and the applicability of the retrieved AGRI AOD in monitoring extreme pollution events.</p>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Publication</div>
+                    <div class="col-xs-12 col-sm-9">Engineering</div>
+                </div>
+            </div>
+        </div>
+        
+        <div class="visible-xs space-below"></div>
+
+        
+
+        <div class="row">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading">Date</div>
+                    <div class="col-xs-12 col-sm-9" itemprop="datePublished">
+                        
+                            October, 2022
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="visible-xs space-below"></div>
+
+        <div class="row" style="padding-top: 10px">
+            <div class="col-sm-12">
+                <div class="row">
+                    <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">Links</div>
+                    <div class="col-xs-12 col-sm-9">
+
+                        
+
+
+
+
+<a class="btn btn-primary btn-outline" href="http://localhost:1313/pdf/Shi%20et%20al.Renewable%20and%20Sustainable%20Energy%20Reviews_2023_First%20estimation%20of%20high-resolution%20solar%20photovoltaic%20resource%20maps%20over%20China.pdf">PDF</a>
+
+
+<a class="btn btn-primary btn-outline" href="//github.com">Code</a>
+
+<a class="btn btn-primary btn-outline" href="http://localhost:1313/project/deeplearning">Project</a>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="visible-xs space-below"></div>
+
+        <div class="space-below"></div>
+
+        <div class="article-style"><p>You can add information in $\LaTeX$ and <em>Markdown</em> here.</p>
+</div>
+
+    </div>
+
+
+</div>
+
+<footer class="site-footer">
+    <div class="container">
+        <p class="powered-by">
+
+            © fdzoom, 2023 &middot; 
+
+            Partially powered by the <a href="https://github.com/gcushen/hugo-academic" target="_blank">Academic theme</a> for <a href="http://gohugo.io" target="_blank">Hugo</a>.
+
+            <span class="pull-right"><a href="#home" id="back_to_top"><span class="button_icon"><i class="fa fa-chevron-up fa-2x" aria-hidden="true"></i></span></a></span>
+
+        </p>
+    </div>
+</footer>
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/1.18.4/TweenMax.min.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/gsap/latest/plugins/ScrollToPlugin.min.js"></script>
+
+
+
+
+<script type="text/x-mathjax-config">
+ MathJax.Hub.Config({ tex2jax: { inlineMath: [['$','$'], ['\\(','\\)']] } });
+</script>
+
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS_CHTML">
+</script>
+
+</body>
+</html>
+
