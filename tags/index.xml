@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on PACE research group</title>
-    <link>http://localhost:34941/tags/</link>
+    <link>http://localhost:43809/tags/</link>
     <description>Recent content in Tags on PACE research group</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; fdzoom, 2023 </copyright>
-    <atom:link href="http://localhost:34941/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:43809/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
