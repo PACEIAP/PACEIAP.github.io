@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on PACE research group</title>
-    <link>http://localhost:37937/project/</link>
+    <link>http://localhost:1313/project/</link>
     <description>Recent content in Projects on PACE research group</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>&amp;copy; fdzoom, 2023 </copyright>
     <lastBuildDate>Wed, 01 May 2024 16:10:22 +0200</lastBuildDate>
-    <atom:link href="http://localhost:37937/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Daily AOD and PM2.5 (2018)</title>
-      <link>http://localhost:37937/project/li-aas-2024/</link>
+      <link>http://localhost:1313/project/li-aas-2024/</link>
       <pubDate>Wed, 01 May 2024 16:10:22 +0200</pubDate>
-      <guid>http://localhost:37937/project/li-aas-2024/</guid>
+      <guid>http://localhost:1313/project/li-aas-2024/</guid>
       <description>Introduction Aerosol information, particularly PM2.5 concentration and aerosol optical depth (AOD), is essential for inquiries pertaining to air quality, human health impacts, and climate change. Previous approaches to estimate PM2.5 concentration from remote sensing data have largely relied on AOD retrieval techniques. However, the complexity of the AOD–PM2.5 interplay and limitations of existing algorithms pose significant challenges to achieving precise co-estimations of the two quantities at the same location. On this point, a multi-task learning (MTL) model, which enables the joint retrieval of PM2.</description>
     </item>
     <item>
       <title>FY-4A AGRI AOD (2018)</title>
-      <link>http://localhost:37937/project/fu-engineering-2024/</link>
+      <link>http://localhost:1313/project/fu-engineering-2024/</link>
       <pubDate>Wed, 10 Jan 2024 16:10:22 +0200</pubDate>
-      <guid>http://localhost:37937/project/fu-engineering-2024/</guid>
+      <guid>http://localhost:1313/project/fu-engineering-2024/</guid>
       <description>Introduction The dataset is a colltection of FY-4A REGC AGRI AOD retrieved with transfer learning method (see details in the paper:A deep-learning and transfer-learning hybrid aerosol retrieval algorithm for FY4-AGRI: Development and verification over Asia). The AGRI AOD is built with 5min/4km. The dataset in this category is provided in 1 hour.&#xA;Due to the cloud mask before March 12th being derived from a simplified empirical algorithm, there is a difference in data quality between the AOD data before and after March 12th.</description>
     </item>
     <item>
       <title>High-resolution solar photovoltaic resource map</title>
-      <link>http://localhost:37937/project/shi-rser-2023/</link>
+      <link>http://localhost:1313/project/shi-rser-2023/</link>
       <pubDate>Wed, 12 Jul 2023 16:10:22 +0200</pubDate>
-      <guid>http://localhost:37937/project/shi-rser-2023/</guid>
+      <guid>http://localhost:1313/project/shi-rser-2023/</guid>
       <description>First estimation of high-resolution solar photovoltaic resource maps over China with Fengyun-4A satellite and machine learning Abstract Fengyun-4A (FY-4A), which is the latest-generation Chinese geostationary meteorological satellite, measures solar reflection and thermal emission with high temporal, spatial, and spectral resolutions. It is expected to be highly beneficial for solar resource assessment and forecasting in China. This study is the first to estimate, using FY-4A and a random forest model, the global horizontal irradiance (GHI) at a 4-km–15-min spatio-temporal resolution over China, as a means to arrive at a solar photovoltaic (PV) resource map.</description>
     </item>
   </channel>
